@@ -13,4 +13,8 @@ password:demo
 username:finance@spu.ac.ke
 password:demo
 ![ACCOUNTS/FINANCE DASHBOARD](https://github.com/MartMbithi/lite-universityERP/blob/master/financedashboard.png)
+# STUDENT PORTAL
+Username:BSCMKS275517
+Password:MMN.2017
+![STUDENT DASHBOARD](https://github.com/MartMbithi/lite-universityERP/blob/master/Student-dashboard.png)
 ***ENJOY CODING***
