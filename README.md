@@ -13,4 +13,4 @@ password:demo
 username:finance@spu.ac.ke
 password:demo
 ![ACCOUNTS/FINANCE DASHBOARD](https://github.com/MartMbithi/lite-universityERP/blob/master/financedashboard.png)
-***ENJOY CODING ***
+***ENJOY CODING***
